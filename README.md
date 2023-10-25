@@ -1,6 +1,5 @@
 # Deep-Learning-Project
-WAFERMAP CLASSIFICATION USING CNN
-
+WaferMap Classification using CNN
 In this project I have used the Convolutional Neural Network for the classification
 of the wafermap images. In particular the goal was to correct classifying the various
 types of error that can occur in the production of the wafer(semiconductor). They
